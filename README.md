@@ -1,0 +1,2 @@
+# akinator
+Salam sabahiniz xeyir
